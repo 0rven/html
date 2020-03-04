@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#field {
+  border: double red 10px;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+#ball {
+  font-size: 75px;
+  font-weight: bold;
+  color: green;
+  position: absolute;
+  left: 75%;
+  top: 5%;
+}
+
+#square {
+  font-size: 55px;
+  font-weight: bold;
+  color: orange;
+  position: absolute;
+  left: 15%;
+  top: 85%;
+}
